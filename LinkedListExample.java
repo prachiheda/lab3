@@ -89,3 +89,5 @@ class LinkedList {
         return i;
     }
 }
+
+//test
